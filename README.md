@@ -1,5 +1,5 @@
 # wordle-plus
-Java GUI recreation of the game Wordle with added features!
+Java GUI recreation of the game Wordle with added features! - created June 2022
 
 -----------
 
